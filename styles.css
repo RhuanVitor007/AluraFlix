@@ -1,5 +1,17 @@
 body {
     color: rgb(152, 137, 253);
-    background: rgb(20, 0, 94);
+    background: rgb(10, 0, 46);
 }
 
+header {
+    border-bottom: solid 2px rgb(152, 137, 253);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(152, 137, 253);;
+}
+
+section {
+    background: rgb(10, 0, 46);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
